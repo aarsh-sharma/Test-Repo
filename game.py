@@ -1,1 +1,4 @@
-USE PYGAME and learn it from GITHUB
+import pygame
+
+pygame.quit()
+quit()
